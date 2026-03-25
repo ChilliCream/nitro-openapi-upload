@@ -16,8 +16,8 @@ inputs:
     description: "API key for authentication"
     required: true
     secret: true
-  pattern:
-    description: "Newline-separated list of glob patterns for selecting OpenAPI document files"
+  patterns:
+    description: "Glob patterns for selecting OpenAPI document files"
     required: true
   cloud-url:
     description: "The URL of the Nitro registry"
