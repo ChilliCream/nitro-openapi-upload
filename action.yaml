@@ -3,7 +3,7 @@ description: "Uploads OpenAPI documents to the Nitro registry"
 author: "ChilliCream"
 branding:
   icon: "upload-cloud"
-  color: "purple"
+  color: "green"
 
 inputs:
   tag:
